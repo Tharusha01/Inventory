@@ -38,7 +38,7 @@ namespace Inventory
             }
             catch 
             { 
-
+                Con.Close();
             }
 
 
